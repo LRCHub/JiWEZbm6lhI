@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "愛のうた",
+  "base_artist": "倖田來未",
+  "createdAt": "2026-03-10T17:37:53.297202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛のうた - LIVE TOUR 2010 ~UNIVERSE~",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/01_愛のうた_-_LIVE_TOUR_2010_~UNIVERSE~_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "FLOWER FLOWER",
+      "has_synced": false,
+      "path": "select/02_愛のうた_FLOWER_FLOWER.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "Strawberry Flower",
+      "has_synced": true,
+      "path": "select/03_愛のうた_Strawberry_Flower.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/04_愛のうた_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "Koda, Kumi",
+      "has_synced": true,
+      "path": "select/05_愛のうた_Koda,_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "ストロベリー・フラワー",
+      "has_synced": true,
+      "path": "select/06_愛のうた_ストロベリー・フラワー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/07_愛のうた_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "ストロベリー・フラワー",
+      "has_synced": true,
+      "path": "select/08_愛のうた_ストロベリー・フラワー.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "ストロベリー・フラワー",
+      "has_synced": true,
+      "path": "select/09_愛のうた_ストロベリー・フラワー.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛のうた (Laugh mix)",
+      "artist": "ストロベリー・フラワー",
+      "has_synced": false,
+      "path": "select/10_愛のうた_(Laugh_mix)_ストロベリー・フラワー.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "アンジェラ・アキ",
+      "has_synced": true,
+      "path": "select/11_愛のうた_アンジェラ・アキ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛のうた - Ainouta",
+      "artist": "Angela Aki",
+      "has_synced": false,
+      "path": "select/12_愛のうた_-_Ainouta_Angela_Aki.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "Angela Aki",
+      "has_synced": false,
+      "path": "select/13_愛のうた_Angela_Aki.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛のうた",
+      "artist": "Strawberry Flower",
+      "has_synced": true,
+      "path": "select/14_愛のうた_Strawberry_Flower.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "3090 ～愛のうた～ (Love Mix Version)",
+      "artist": "山猿",
+      "has_synced": false,
+      "path": "select/15_3090_~愛のうた~_(Love_Mix_Version)_山猿.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛のうた",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_愛のうた_倖田_來未.txt"
+    }
+  ]
+}
